@@ -8,10 +8,10 @@ Python scripts for data processing.
 
 ## 👤 About Me
 
-Hi, I'm [Your Name] — an aspiring Data Engineer passionate about building data pipelines, 
+Hi, I'm Ashish — an aspiring Data Engineer passionate about building data pipelines, 
 working with databases, and transforming raw data into meaningful insights.
 
-📫 Connect with me on [LinkedIn](https://linkedin.com/in/YOUR_PROFILE)  
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/ashishaggupta/)  
 🐙 GitHub: [ag-cloudskills](https://github.com/ag-cloudskills)
 
 ---

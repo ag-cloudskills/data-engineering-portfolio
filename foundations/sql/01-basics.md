@@ -1,18 +1,18 @@
 # DB
 
-## Types of Daatabases
+## Types of Databases
 
-- Relational DB
-    - MS SQL , MYSQL,postgresql
 
-- no SQL
-    - key-value 
-        - redis
-        - dynamodb
-    - column-based
-        - apache cassandra
-        - amazon redshift
-    - graph
-        - neo4j
-    - document 
-        - mango db
+![Database Types](images/01-database-type.svg)
+
+
+## Types of SQL
+
+- Data Definition language
+    - Create
+
+- Data Manipulation Language
+    - Insert
+
+- Data query language
+    - Select
